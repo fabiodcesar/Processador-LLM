@@ -1,0 +1,4 @@
+openai  # Biblioteca da API OpenAI
+google-generativeai # Biblioteca da API Google Generative AI
+sentence-transformers # Modelos de embeddings e cálculo de similaridade
+# Exemplo de instalação: pip install -r requirements.txt
